@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'wc28^haxi0^odg+5v@94)(tzbl8wwnc)w#14f%q&wmpe_gh()9'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crageslist-clone.herokuapp.com', '127.0.0.1' ]
 
 
 # Application definition
