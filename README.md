@@ -1,7 +1,7 @@
 # Screenshots :
 
 
-![](screenshots/Sreenshot_1.png)
+![](screenshots/Screenshot_1.png)
 
 
-![](screenshots/Sreenshot_2.png)
+![](screenshots/Screenshot_2.png)
